@@ -25,7 +25,7 @@ To set up and run this application locally, you need the following:
 You can clone the repository from GitHub or download the zip file and extract it to your desired location.
 
 ```bash
-git clone https://github.com/username/php-quiz-app.git
+git clone https://github.com/malikarslanasif131/php-quiz-app.git
 ```
 
 ### Step 2: Move the project folder to your web server directory
